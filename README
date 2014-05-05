@@ -1,0 +1,13 @@
+
+Incremental Miner of Stretchy Time Sequences with Post-Processing
+
+IncMSTS-PP is an incremental algorithm to extract sequences from
+spatial-time data.
+It uses sliding windows and also a applies a post-processing in
+the sequences using ontologies knowledge.
+
+For more information:
+My name is Carlos Roberto Silveira Junior
+and my e-mail is carlossilveirajr at gmail dot com.
+
+
