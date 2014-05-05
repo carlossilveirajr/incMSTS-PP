@@ -1,0 +1,942 @@
+1 conductivity_0 dqo_0 fosTotal_23 nitTotal_0 oxiDis_0 ph_0 potRed_0 tds_0 temperature_4 turbidity_8 Summer
+2 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_0 hardness_1 fosTotal_0 nitTotal_6 oxiDis_1 ph_0 potRed_20 tds_0 temperature_3 turbidity_25
+3 alkalinity_3 colFec_1 colTotal_1 conductivity_0 dqo_0 hardness_3 fosTotal_10 nitTotal_0 oxiDis_1 ph_2 potRed_11 tds_0 temperature_0 turbidity_17
+4 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_5 hardness_15 fosTotal_0 nitTotal_0 oxiDis_1 ph_1 potRed_7 tds_0 temperature_4 turbidity_0
+5 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+6 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+7 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+8 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+9 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+10 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+11 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+12 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+13 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+14 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26 Autumn
+15 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+16 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+17 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+18 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+19 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+20 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+21 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+22 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+23 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+24 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+25 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+26 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+27 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22 Winter
+28 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+29 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+30 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+31 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+32 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+33 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+34 conductivity_0 dqo_0 fosTotal_23 nitTotal_0 oxiDis_0 ph_0 potRed_0 tds_0 temperature_4 turbidity_8
+35 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_0 hardness_1 fosTotal_0 nitTotal_6 oxiDis_1 ph_0 potRed_20 tds_0 temperature_3 turbidity_25
+36 alkalinity_3 colFec_1 colTotal_1 conductivity_0 dqo_0 hardness_3 fosTotal_10 nitTotal_0 oxiDis_1 ph_2 potRed_11 tds_0 temperature_0 turbidity_17
+37 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_5 hardness_15 fosTotal_0 nitTotal_0 oxiDis_1 ph_1 potRed_7 tds_0 temperature_4 turbidity_0
+38 conductivity_0 dqo_0 fosTotal_23 nitTotal_0 oxiDis_0 ph_0 potRed_0 tds_0 temperature_4 turbidity_8
+39 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_0 hardness_1 fosTotal_0 nitTotal_6 oxiDis_1 ph_0 potRed_20 tds_0 temperature_3 turbidity_25
+40 alkalinity_3 colFec_1 colTotal_1 conductivity_0 dqo_0 hardness_3 fosTotal_10 nitTotal_0 oxiDis_1 ph_2 potRed_11 tds_0 temperature_0 turbidity_17 Spring
+41 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_5 hardness_15 fosTotal_0 nitTotal_0 oxiDis_1 ph_1 potRed_7 tds_0 temperature_4 turbidity_0
+42 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+43 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+44 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+45 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+46 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+47 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+48 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+49 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+50 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+51 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+52 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+53 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1 Summer
+54 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+55 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+56 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+57 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+58 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+59 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+60 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+61 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+62 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+63 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+64 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+65 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+66 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11 Autumn
+67 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+68 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+69 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+70 conductivity_0 dqo_0 fosTotal_23 nitTotal_0 oxiDis_0 ph_0 potRed_0 tds_0 temperature_4 turbidity_8
+71 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_0 hardness_1 fosTotal_0 nitTotal_6 oxiDis_1 ph_0 potRed_20 tds_0 temperature_3 turbidity_25
+72 alkalinity_3 colFec_1 colTotal_1 conductivity_0 dqo_0 hardness_3 fosTotal_10 nitTotal_0 oxiDis_1 ph_2 potRed_11 tds_0 temperature_0 turbidity_17
+73 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_5 hardness_15 fosTotal_0 nitTotal_0 oxiDis_1 ph_1 potRed_7 tds_0 temperature_4 turbidity_0
+74 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+75 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+76 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+77 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+78 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+79 conductivity_0 dqo_0 fosTotal_23 nitTotal_0 oxiDis_0 ph_0 potRed_0 tds_0 temperature_4 turbidity_8 Winter
+80 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_0 hardness_1 fosTotal_0 nitTotal_6 oxiDis_1 ph_0 potRed_20 tds_0 temperature_3 turbidity_25
+81 alkalinity_3 colFec_1 colTotal_1 conductivity_0 dqo_0 hardness_3 fosTotal_10 nitTotal_0 oxiDis_1 ph_2 potRed_11 tds_0 temperature_0 turbidity_17
+82 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_5 hardness_15 fosTotal_0 nitTotal_0 oxiDis_1 ph_1 potRed_7 tds_0 temperature_4 turbidity_0
+83 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+84 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+85 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+86 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+87 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+88 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+89 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+90 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+91 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+92 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10 Spring
+93 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+94 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+95 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+96 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+97 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+98 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+99 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+100 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+101 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+102 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+103 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+104 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+105 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12 Summer
+106 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+107 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+108 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+109 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+110 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+111 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+112 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+113 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+114 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+115 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+116 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+117 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+118 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2 Autumn
+119 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+120 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+121 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+122 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+123 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+124 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+125 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+126 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+127 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+128 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+129 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+130 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+131 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11 Winter
+132 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+133 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+134 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+135 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+136 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+137 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+138 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+139 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+140 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+141 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+142 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+143 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+144 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27 Spring
+145 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+146 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+147 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+148 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+149 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+150 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+151 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+152 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+153 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+154 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+155 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+156 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+157 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25 Summer
+158 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+159 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+160 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+161 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+162 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+163 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+164 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+165 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+166 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+167 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+168 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+169 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+170 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19 Autumn
+171 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+172 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+173 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+174 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+175 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+176 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+177 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+178 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+179 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+180 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+181 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+182 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+183 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2 Winter
+184 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+185 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+186 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+187 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+188 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+189 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+190 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+191 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+192 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+193 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+194 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+195 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+196 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10 Spring
+197 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+198 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+199 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+200 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+201 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+202 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+203 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+204 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+205 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+206 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+207 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+208 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+209 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1 Summer
+210 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+211 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+212 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+213 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+214 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+215 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+216 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+217 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+218 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+219 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+220 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+221 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+222 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3 Autumn
+223 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+224 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+225 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+226 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+227 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+228 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+229 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+230 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+231 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+232 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+233 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+234 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+235 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21 Winter
+236 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+237 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+238 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+239 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+240 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+241 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+242 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+243 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+244 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+245 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+246 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+247 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+248 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2 Spring
+249 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+250 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+251 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+252 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+253 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+254 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+255 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+256 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+257 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+258 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+259 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+260 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+261 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14 Summer
+262 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+263 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+264 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+265 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+266 alkalinity_13 colFec_12 colTotal_12 conductivity_17 dqo_24 hardness_13 fosTotal_18 nitTotal_27 oxiDis_21 ph_23 potRed_24 tds_13 temperature_31 turbidity_29
+267 alkalinity_14 colFec_6 colTotal_6 conductivity_6 dqo_24 hardness_14 fosTotal_22 nitTotal_23 oxiDis_22 ph_25 potRed_19 tds_12 temperature_20 turbidity_24
+268 alkalinity_18 colFec_20 colTotal_20 conductivity_10 dqo_28 hardness_18 fosTotal_17 nitTotal_24 oxiDis_21 ph_25 potRed_10 tds_12 temperature_31 turbidity_7
+269 conductivity_6 dqo_27 fosTotal_31 nitTotal_25 oxiDis_20 ph_26 potRed_6 tds_13 temperature_32 turbidity_16
+270 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+271 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+272 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+273 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+274 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9 Autumn
+275 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+276 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+277 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+278 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+279 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+280 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+281 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+282 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+283 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+284 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+285 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+286 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+287 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26 Winter
+288 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+289 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+290 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+291 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+292 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+293 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+294 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+295 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+296 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+297 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+298 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+299 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+300 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21 Spring
+301 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+302 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+303 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+304 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+305 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+306 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+307 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+308 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+309 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+310 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+311 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+312 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+313 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2 Summer
+314 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+315 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+316 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+317 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+318 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+319 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+320 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+321 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+322 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+323 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+324 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+325 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+326 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19 Autumn
+327 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+328 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+329 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+330 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+331 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+332 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+333 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+334 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+335 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+336 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+337 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+338 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+339 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22 Winter
+340 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+341 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+342 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+343 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+344 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+345 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+346 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+347 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+348 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+349 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+350 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+351 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+352 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26 Spring
+353 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+354 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+355 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+356 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+357 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+358 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+359 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+360 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+361 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+362 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+363 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+364 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+365 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21 Summer
+366 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+367 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+368 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+369 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+370 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+371 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+372 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+373 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+374 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+375 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+376 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+377 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+378 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6 Autumn
+379 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+380 alkalinity_13 colFec_12 colTotal_12 conductivity_17 dqo_24 hardness_13 fosTotal_18 nitTotal_27 oxiDis_21 ph_23 potRed_24 tds_13 temperature_31 turbidity_29
+381 alkalinity_14 colFec_6 colTotal_6 conductivity_6 dqo_24 hardness_14 fosTotal_22 nitTotal_23 oxiDis_22 ph_25 potRed_19 tds_12 temperature_20 turbidity_24
+382 alkalinity_18 colFec_20 colTotal_20 conductivity_10 dqo_28 hardness_18 fosTotal_17 nitTotal_24 oxiDis_21 ph_25 potRed_10 tds_12 temperature_31 turbidity_7
+383 conductivity_6 dqo_27 fosTotal_31 nitTotal_25 oxiDis_20 ph_26 potRed_6 tds_13 temperature_32 turbidity_16
+384 alkalinity_14 colFec_13 colTotal_13 conductivity_18 dqo_27 hardness_14 fosTotal_20 nitTotal_28 oxiDis_23 ph_25 potRed_24 tds_13 temperature_32 turbidity_29
+385 alkalinity_15 colFec_6 colTotal_6 conductivity_7 dqo_27 hardness_15 fosTotal_23 nitTotal_25 oxiDis_24 ph_26 potRed_19 tds_13 temperature_23 turbidity_24
+386 alkalinity_18 colFec_20 colTotal_20 conductivity_10 dqo_29 hardness_18 fosTotal_18 nitTotal_26 oxiDis_23 ph_26 potRed_11 tds_13 temperature_32 turbidity_7
+387 conductivity_7 dqo_28 fosTotal_31 nitTotal_27 oxiDis_22 ph_27 potRed_7 tds_14 temperature_33 turbidity_16
+388 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+389 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+390 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+391 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2 Winter
+392 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+393 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+394 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+395 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+396 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+397 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+398 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+399 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+400 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+401 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+402 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+403 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+404 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12 Spring
+405 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+406 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+407 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+408 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+409 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+410 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+411 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+412 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+413 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+414 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+415 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+416 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+417 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26 Summer
+418 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+419 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+420 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+421 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+422 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+423 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+424 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+425 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+426 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+427 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+428 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+429 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+430 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20 Autumn
+431 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+432 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+433 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+434 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+435 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+436 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+437 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+438 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+439 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+440 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+441 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+442 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+443 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26 Winter
+444 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+445 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+446 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+447 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+448 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+449 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+450 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+451 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+452 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+453 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+454 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+455 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+456 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27 Spring
+457 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+458 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+459 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+460 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+461 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+462 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+463 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+464 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+465 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+466 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+467 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+468 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+469 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14 Summer
+470 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+471 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+472 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+473 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+474 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+475 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+476 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+477 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+478 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+479 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+480 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+481 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+482 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26 Autumn
+483 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+484 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+485 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+486 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+487 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+488 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+489 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+490 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+491 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+492 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+493 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+494 alkalinity_13 colFec_12 colTotal_12 conductivity_17 dqo_24 hardness_13 fosTotal_18 nitTotal_27 oxiDis_21 ph_23 potRed_24 tds_13 temperature_31 turbidity_29
+495 alkalinity_14 colFec_6 colTotal_6 conductivity_6 dqo_24 hardness_14 fosTotal_22 nitTotal_23 oxiDis_22 ph_25 potRed_19 tds_12 temperature_20 turbidity_24 Winter
+496 alkalinity_18 colFec_20 colTotal_20 conductivity_10 dqo_28 hardness_18 fosTotal_17 nitTotal_24 oxiDis_21 ph_25 potRed_10 tds_12 temperature_31 turbidity_7
+497 conductivity_6 dqo_27 fosTotal_31 nitTotal_25 oxiDis_20 ph_26 potRed_6 tds_13 temperature_32 turbidity_16
+498 alkalinity_14 colFec_13 colTotal_13 conductivity_18 dqo_27 hardness_14 fosTotal_20 nitTotal_28 oxiDis_23 ph_25 potRed_24 tds_13 temperature_32 turbidity_29
+499 alkalinity_15 colFec_6 colTotal_6 conductivity_7 dqo_27 hardness_15 fosTotal_23 nitTotal_25 oxiDis_24 ph_26 potRed_19 tds_13 temperature_23 turbidity_24
+500 alkalinity_18 colFec_20 colTotal_20 conductivity_10 dqo_29 hardness_18 fosTotal_18 nitTotal_26 oxiDis_23 ph_26 potRed_11 tds_13 temperature_32 turbidity_7
+501 conductivity_7 dqo_28 fosTotal_31 nitTotal_27 oxiDis_22 ph_27 potRed_7 tds_14 temperature_33 turbidity_16
+502 alkalinity_14 colFec_13 colTotal_13 conductivity_18 dqo_28 hardness_14 fosTotal_21 nitTotal_28 oxiDis_24 ph_26 potRed_25 tds_14 temperature_33 turbidity_30
+503 alkalinity_15 colFec_7 colTotal_7 conductivity_8 dqo_28 hardness_15 fosTotal_23 nitTotal_27 oxiDis_24 ph_27 potRed_19 tds_14 temperature_26 turbidity_24
+504 alkalinity_19 colFec_21 colTotal_21 conductivity_10 dqo_29 hardness_19 fosTotal_20 nitTotal_27 oxiDis_24 ph_27 potRed_11 tds_14 temperature_33 turbidity_8
+505 conductivity_8 dqo_29 fosTotal_31 nitTotal_28 oxiDis_23 ph_27 potRed_7 tds_15 temperature_33 turbidity_17
+506 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+507 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+508 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20 Spring
+509 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+510 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+511 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+512 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+513 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+514 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+515 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+516 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+517 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+518 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+519 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+520 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+521 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3 Summer
+522 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+523 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+524 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+525 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+526 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+527 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+528 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+529 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+530 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+531 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+532 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+533 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+534 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14 Autumn
+535 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+536 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+537 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+538 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+539 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+540 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+541 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+542 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+543 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+544 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+545 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+546 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+547 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26 Winter
+548 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+549 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+550 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+551 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+552 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+553 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+554 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+555 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+556 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+557 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+558 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+559 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+560 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12 Spring
+561 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+562 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+563 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+564 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+565 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+566 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+567 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+568 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+569 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+570 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+571 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+572 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+573 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14 Summer
+574 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+575 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+576 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+577 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+578 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+579 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+580 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+581 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+582 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+583 alkalinity_13 colFec_12 colTotal_12 conductivity_17 dqo_24 hardness_13 fosTotal_18 nitTotal_27 oxiDis_21 ph_23 potRed_24 tds_13 temperature_31 turbidity_29
+584 alkalinity_14 colFec_6 colTotal_6 conductivity_6 dqo_24 hardness_14 fosTotal_22 nitTotal_23 oxiDis_22 ph_25 potRed_19 tds_12 temperature_20 turbidity_24
+585 alkalinity_18 colFec_20 colTotal_20 conductivity_10 dqo_28 hardness_18 fosTotal_17 nitTotal_24 oxiDis_21 ph_25 potRed_10 tds_12 temperature_31 turbidity_7
+586 conductivity_6 dqo_27 fosTotal_31 nitTotal_25 oxiDis_20 ph_26 potRed_6 tds_13 temperature_32 turbidity_16 Autumn
+587 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+588 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+589 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+590 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+591 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+592 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+593 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+594 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+595 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+596 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+597 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+598 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+599 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14 Winter
+600 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+601 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+602 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+603 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+604 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+605 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+606 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+607 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+608 alkalinity_13 colFec_12 colTotal_12 conductivity_17 dqo_24 hardness_13 fosTotal_18 nitTotal_27 oxiDis_21 ph_23 potRed_24 tds_13 temperature_31 turbidity_29
+609 alkalinity_14 colFec_6 colTotal_6 conductivity_6 dqo_24 hardness_14 fosTotal_22 nitTotal_23 oxiDis_22 ph_25 potRed_19 tds_12 temperature_20 turbidity_24
+610 alkalinity_18 colFec_20 colTotal_20 conductivity_10 dqo_28 hardness_18 fosTotal_17 nitTotal_24 oxiDis_21 ph_25 potRed_10 tds_12 temperature_31 turbidity_7
+611 conductivity_6 dqo_27 fosTotal_31 nitTotal_25 oxiDis_20 ph_26 potRed_6 tds_13 temperature_32 turbidity_16
+612 alkalinity_14 colFec_13 colTotal_13 conductivity_18 dqo_27 hardness_14 fosTotal_20 nitTotal_28 oxiDis_23 ph_25 potRed_24 tds_13 temperature_32 turbidity_29 Spring
+613 alkalinity_15 colFec_6 colTotal_6 conductivity_7 dqo_27 hardness_15 fosTotal_23 nitTotal_25 oxiDis_24 ph_26 potRed_19 tds_13 temperature_23 turbidity_24
+614 alkalinity_18 colFec_20 colTotal_20 conductivity_10 dqo_29 hardness_18 fosTotal_18 nitTotal_26 oxiDis_23 ph_26 potRed_11 tds_13 temperature_32 turbidity_7
+615 conductivity_7 dqo_28 fosTotal_31 nitTotal_27 oxiDis_22 ph_27 potRed_7 tds_14 temperature_33 turbidity_16
+616 alkalinity_14 colFec_13 colTotal_13 conductivity_18 dqo_28 hardness_14 fosTotal_21 nitTotal_28 oxiDis_24 ph_26 potRed_25 tds_14 temperature_33 turbidity_30
+617 alkalinity_15 colFec_7 colTotal_7 conductivity_8 dqo_28 hardness_15 fosTotal_23 nitTotal_27 oxiDis_24 ph_27 potRed_19 tds_14 temperature_26 turbidity_24
+618 alkalinity_19 colFec_21 colTotal_21 conductivity_10 dqo_29 hardness_19 fosTotal_20 nitTotal_27 oxiDis_24 ph_27 potRed_11 tds_14 temperature_33 turbidity_8
+619 conductivity_8 dqo_29 fosTotal_31 nitTotal_28 oxiDis_23 ph_27 potRed_7 tds_15 temperature_33 turbidity_17
+620 alkalinity_15 colFec_13 colTotal_13 conductivity_18 dqo_29 hardness_15 fosTotal_21 nitTotal_28 oxiDis_24 ph_27 potRed_25 tds_15 temperature_33 turbidity_30
+621 alkalinity_15 colFec_7 colTotal_7 conductivity_9 dqo_29 hardness_15 fosTotal_23 nitTotal_28 oxiDis_24 ph_27 potRed_20 tds_15 temperature_29 turbidity_25
+622 alkalinity_19 colFec_21 colTotal_21 conductivity_11 dqo_29 hardness_19 fosTotal_21 nitTotal_28 oxiDis_24 ph_27 potRed_11 tds_15 temperature_33 turbidity_9
+623 conductivity_9 dqo_29 fosTotal_31 nitTotal_28 oxiDis_24 ph_27 potRed_7 tds_15 temperature_33 turbidity_17
+624 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+625 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26 Summer
+626 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+627 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+628 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+629 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+630 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+631 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+632 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+633 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+634 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+635 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+636 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+637 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+638 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22 Autumn
+639 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+640 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+641 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+642 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+643 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+644 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+645 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+646 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+647 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+648 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+649 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+650 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+651 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6 Winter
+652 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+653 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+654 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+655 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+656 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+657 alkalinity_13 colFec_12 colTotal_12 conductivity_17 dqo_24 hardness_13 fosTotal_18 nitTotal_27 oxiDis_21 ph_23 potRed_24 tds_13 temperature_31 turbidity_29
+658 alkalinity_14 colFec_6 colTotal_6 conductivity_6 dqo_24 hardness_14 fosTotal_22 nitTotal_23 oxiDis_22 ph_25 potRed_19 tds_12 temperature_20 turbidity_24
+659 alkalinity_18 colFec_20 colTotal_20 conductivity_10 dqo_28 hardness_18 fosTotal_17 nitTotal_24 oxiDis_21 ph_25 potRed_10 tds_12 temperature_31 turbidity_7
+660 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+661 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+662 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+663 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+664 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13 Spring
+665 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+666 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+667 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+668 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+669 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+670 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+671 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+672 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+673 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+674 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+675 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+676 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+677 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14 Summer
+678 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+679 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+680 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+681 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+682 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+683 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+684 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+685 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+686 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+687 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+688 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+689 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+690 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5 Autumn
+691 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+692 alkalinity_13 colFec_12 colTotal_12 conductivity_17 dqo_24 hardness_13 fosTotal_18 nitTotal_27 oxiDis_21 ph_23 potRed_24 tds_13 temperature_31 turbidity_29
+693 alkalinity_14 colFec_6 colTotal_6 conductivity_6 dqo_24 hardness_14 fosTotal_22 nitTotal_23 oxiDis_22 ph_25 potRed_19 tds_12 temperature_20 turbidity_24
+694 alkalinity_18 colFec_20 colTotal_20 conductivity_10 dqo_28 hardness_18 fosTotal_17 nitTotal_24 oxiDis_21 ph_25 potRed_10 tds_12 temperature_31 turbidity_7
+695 conductivity_6 dqo_27 fosTotal_31 nitTotal_25 oxiDis_20 ph_26 potRed_6 tds_13 temperature_32 turbidity_16
+696 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+697 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+698 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+699 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+700 conductivity_6 dqo_27 fosTotal_31 nitTotal_25 oxiDis_20 ph_26 potRed_6 tds_13 temperature_32 turbidity_16
+701 alkalinity_14 colFec_13 colTotal_13 conductivity_18 dqo_27 hardness_14 fosTotal_20 nitTotal_28 oxiDis_23 ph_25 potRed_24 tds_13 temperature_32 turbidity_29
+702 alkalinity_15 colFec_6 colTotal_6 conductivity_7 dqo_27 hardness_15 fosTotal_23 nitTotal_25 oxiDis_24 ph_26 potRed_19 tds_13 temperature_23 turbidity_24
+703 alkalinity_18 colFec_20 colTotal_20 conductivity_10 dqo_29 hardness_18 fosTotal_18 nitTotal_26 oxiDis_23 ph_26 potRed_11 tds_13 temperature_32 turbidity_7 Winter
+704 conductivity_7 dqo_28 fosTotal_31 nitTotal_27 oxiDis_22 ph_27 potRed_7 tds_14 temperature_33 turbidity_16
+705 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+706 alkalinity_13 colFec_12 colTotal_12 conductivity_17 dqo_24 hardness_13 fosTotal_18 nitTotal_27 oxiDis_21 ph_23 potRed_24 tds_13 temperature_31 turbidity_29
+707 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+708 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+709 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+710 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+711 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+712 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+713 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+714 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+715 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+716 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26 Spring
+717 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+718 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+719 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+720 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+721 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+722 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+723 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+724 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+725 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+726 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+727 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+728 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+729 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22 Summer
+730 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+731 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+732 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+733 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+734 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+735 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+736 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+737 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+738 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+739 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+740 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+741 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+742 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17 Autumn
+743 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+744 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+745 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+746 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+747 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+748 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+749 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+750 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+751 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+752 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+753 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+754 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+755 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1 Winter
+756 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+757 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+758 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+759 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+760 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+761 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+762 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+763 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+764 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+765 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+766 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+767 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+768 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11 Spring
+769 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+770 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+771 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+772 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+773 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+774 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+775 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+776 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+777 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+778 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+779 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+780 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+781 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26 Summer
+782 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+783 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+784 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+785 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+786 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+787 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+788 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+789 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+790 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+791 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+792 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+793 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+794 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9 Autumn
+795 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+796 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+797 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+798 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+799 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+800 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+801 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+802 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+803 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+804 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+805 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+806 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+807 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12 Winter
+808 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+809 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+810 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+811 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+812 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+813 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+814 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+815 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+816 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+817 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+818 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+819 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+820 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14 Spring
+821 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+822 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+823 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+824 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+825 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+826 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+827 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+828 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+829 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+830 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+831 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+832 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+833 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11 Summer
+834 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+835 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+836 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+837 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+838 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+839 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+840 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+841 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+842 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+843 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+844 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+845 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+846 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27 Autumn
+847 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+848 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+849 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+850 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+851 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+852 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6
+853 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+854 alkalinity_13 colFec_12 colTotal_12 conductivity_17 dqo_24 hardness_13 fosTotal_18 nitTotal_27 oxiDis_21 ph_23 potRed_24 tds_13 temperature_31 turbidity_29
+855 alkalinity_14 colFec_6 colTotal_6 conductivity_6 dqo_24 hardness_14 fosTotal_22 nitTotal_23 oxiDis_22 ph_25 potRed_19 tds_12 temperature_20 turbidity_24
+856 alkalinity_18 colFec_20 colTotal_20 conductivity_10 dqo_28 hardness_18 fosTotal_17 nitTotal_24 oxiDis_21 ph_25 potRed_10 tds_12 temperature_31 turbidity_7
+857 conductivity_6 dqo_27 fosTotal_31 nitTotal_25 oxiDis_20 ph_26 potRed_6 tds_13 temperature_32 turbidity_16
+858 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+859 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26 Winter
+860 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+861 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+862 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+863 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+864 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+865 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+866 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+867 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+868 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+869 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+870 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+871 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+872 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19 Spring
+873 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+874 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+875 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+876 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+877 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+878 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+879 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+880 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+881 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+882 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+883 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+884 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+885 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26 Summer
+886 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18
+887 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+888 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+889 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+890 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+891 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+892 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+893 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+894 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+895 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+896 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+897 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+898 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21 Autumn
+899 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3
+900 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+901 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+902 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+903 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+904 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14
+905 alkalinity_10 colFec_12 colTotal_12 conductivity_16 dqo_19 hardness_10 fosTotal_14 nitTotal_24 oxiDis_15 ph_17 potRed_22 tds_9 temperature_25 turbidity_27
+906 alkalinity_13 colFec_4 colTotal_4 conductivity_4 dqo_18 hardness_13 fosTotal_21 nitTotal_17 oxiDis_17 ph_21 potRed_18 tds_9 temperature_13 turbidity_23
+907 alkalinity_17 colFec_19 colTotal_19 conductivity_8 dqo_25 hardness_17 fosTotal_12 nitTotal_18 oxiDis_16 ph_21 potRed_9 tds_9 temperature_26 turbidity_5
+908 conductivity_4 dqo_23 fosTotal_29 nitTotal_20 oxiDis_13 ph_22 potRed_5 tds_10 temperature_30 turbidity_14
+909 alkalinity_12 colFec_12 colTotal_12 conductivity_17 dqo_22 hardness_12 fosTotal_16 nitTotal_26 oxiDis_18 ph_21 potRed_23 tds_11 temperature_28 turbidity_28
+910 alkalinity_14 colFec_5 colTotal_5 conductivity_5 dqo_21 hardness_14 fosTotal_22 nitTotal_20 oxiDis_20 ph_23 potRed_18 tds_10 temperature_17 turbidity_23
+911 alkalinity_17 colFec_20 colTotal_20 conductivity_9 dqo_27 hardness_17 fosTotal_15 nitTotal_21 oxiDis_19 ph_23 potRed_10 tds_10 temperature_29 turbidity_6 Winter
+912 conductivity_5 dqo_26 fosTotal_30 nitTotal_23 oxiDis_16 ph_24 potRed_6 tds_12 temperature_31 turbidity_15
+913 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+914 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+915 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+916 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+917 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+918 conductivity_0 dqo_2 fosTotal_24 nitTotal_1 oxiDis_0 ph_2 potRed_0 tds_1 temperature_8 turbidity_8
+919 alkalinity_1 colFec_7 colTotal_7 conductivity_11 dqo_1 hardness_1 fosTotal_2 nitTotal_9 oxiDis_1 ph_1 potRed_20 tds_2 temperature_5 turbidity_25
+920 alkalinity_3 colFec_1 colTotal_1 conductivity_1 dqo_0 hardness_3 fosTotal_11 nitTotal_0 oxiDis_3 ph_3 potRed_12 tds_1 temperature_0 turbidity_17
+921 alkalinity_15 colFec_13 colTotal_13 conductivity_4 dqo_7 hardness_15 fosTotal_1 nitTotal_2 oxiDis_1 ph_3 potRed_7 tds_1 temperature_7 turbidity_0
+922 conductivity_1 dqo_5 fosTotal_25 nitTotal_4 oxiDis_1 ph_4 potRed_1 tds_2 temperature_11 turbidity_9
+923 alkalinity_2 colFec_8 colTotal_8 conductivity_12 dqo_4 hardness_2 fosTotal_4 nitTotal_10 oxiDis_4 ph_3 potRed_21 tds_3 temperature_9 turbidity_26
+924 alkalinity_5 colFec_1 colTotal_1 conductivity_2 dqo_3 hardness_5 fosTotal_13 nitTotal_3 oxiDis_5 ph_7 potRed_13 tds_2 temperature_1 turbidity_18 Spring
+925 alkalinity_15 colFec_14 colTotal_14 conductivity_4 dqo_10 hardness_15 fosTotal_3 nitTotal_5 oxiDis_5 ph_6 potRed_7 tds_2 temperature_10 turbidity_1
+926 conductivity_2 dqo_7 fosTotal_26 nitTotal_7 oxiDis_2 ph_8 potRed_2 tds_3 temperature_15 turbidity_10
+927 alkalinity_3 colFec_9 colTotal_9 conductivity_12 dqo_7 hardness_3 fosTotal_6 nitTotal_13 oxiDis_6 ph_5 potRed_21 tds_4 temperature_12 turbidity_26
+928 alkalinity_7 colFec_2 colTotal_2 conductivity_3 dqo_6 hardness_7 fosTotal_15 nitTotal_6 oxiDis_8 ph_10 potRed_14 tds_3 temperature_2 turbidity_19
+929 alkalinity_16 colFec_15 colTotal_15 conductivity_4 dqo_13 hardness_16 fosTotal_5 nitTotal_8 oxiDis_6 ph_10 potRed_7 tds_3 temperature_14 turbidity_2
+930 conductivity_3 dqo_11 fosTotal_27 nitTotal_9 oxiDis_5 ph_10 potRed_2 tds_5 temperature_19 turbidity_11
+931 alkalinity_4 colFec_9 colTotal_9 conductivity_13 dqo_9 hardness_4 fosTotal_8 nitTotal_16 oxiDis_8 ph_9 potRed_21 tds_6 temperature_16 turbidity_26
+932 alkalinity_9 colFec_2 colTotal_2 conductivity_4 dqo_8 hardness_9 fosTotal_17 nitTotal_9 oxiDis_9 ph_12 potRed_15 tds_5 temperature_3 turbidity_20
+933 alkalinity_16 colFec_16 colTotal_16 conductivity_5 dqo_17 hardness_16 fosTotal_7 nitTotal_10 oxiDis_9 ph_11 potRed_8 tds_5 temperature_18 turbidity_2
+934 conductivity_4 dqo_14 fosTotal_28 nitTotal_11 oxiDis_7 ph_13 potRed_3 tds_6 temperature_21 turbidity_12
+935 alkalinity_6 colFec_10 colTotal_10 conductivity_14 dqo_12 hardness_6 fosTotal_10 nitTotal_19 oxiDis_9 ph_10 potRed_21 tds_6 temperature_19 turbidity_26
+936 alkalinity_11 colFec_3 colTotal_3 conductivity_4 dqo_12 hardness_11 fosTotal_19 nitTotal_10 oxiDis_11 ph_15 potRed_16 tds_6 temperature_6 turbidity_21
+937 alkalinity_17 colFec_17 colTotal_17 conductivity_6 dqo_20 hardness_17 fosTotal_9 nitTotal_12 oxiDis_10 ph_14 potRed_8 tds_6 temperature_20 turbidity_3 Summer
+938 conductivity_4 dqo_18 fosTotal_28 nitTotal_14 oxiDis_9 ph_16 potRed_4 tds_7 temperature_24 turbidity_13
+939 alkalinity_8 colFec_11 colTotal_11 conductivity_15 dqo_16 hardness_8 fosTotal_12 nitTotal_22 oxiDis_12 ph_14 potRed_21 tds_8 temperature_22 turbidity_26
+940 alkalinity_12 colFec_3 colTotal_3 conductivity_4 dqo_15 hardness_12 fosTotal_20 nitTotal_14 oxiDis_14 ph_19 potRed_17 tds_7 temperature_10 turbidity_22
+941 alkalinity_17 colFec_18 colTotal_18 conductivity_7 dqo_22 hardness_17 fosTotal_10 nitTotal_15 oxiDis_13 ph_18 potRed_9 tds_7 temperature_23 turbidity_4
+942 conductivity_4 dqo_21 fosTotal_28 nitTotal_18 oxiDis_10 ph_20 potRed_5 tds_9 temperature_27 turbidity_14

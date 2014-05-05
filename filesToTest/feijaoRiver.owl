@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#"
+     xml:base="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Brooks -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Brooks">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Discharge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Discharge -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Discharge"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Heavy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Heavy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rainfall"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Large -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Large">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Discharge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Light -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Light">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rainfall"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Moderate -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Moderate">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rainfall"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#No_Rain -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#No_Rain">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rainfall"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rainfall -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rainfall"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rivers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rivers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Discharge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Small -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Small">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Discharge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Small_Streams -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Small_Streams">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Discharge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Discharge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Very_Large -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Very_Large">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Discharge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Violent -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Violent">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rainfall"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_0 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_0">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Brooks"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_10 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_10">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_4 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_4">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_5 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_5">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_6 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_6">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_7 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_7">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_8 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_8">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_9 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Flow_9">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Streams"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_0 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_0">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#No_Rain"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_1">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Light"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_2">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Light"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_3">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Light"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_4 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_4">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Light"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Moderate"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_5 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_5">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Moderate"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_6 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_6">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Heavy"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Moderate"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_7 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_7">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Heavy"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_8 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Rain_8">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2013/0/feijaoRiver.owl#Heavy"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.3.1824) http://owlapi.sourceforge.net -->
+
