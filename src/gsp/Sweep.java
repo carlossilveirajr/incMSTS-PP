@@ -5,7 +5,7 @@ import useful.FileReader;
 import useful.Item;
 import useful.Itemset;
 
-/***********
+/**
  * @brief This class makes the first sweep on the database.
  * 
  *        At the first sweep, this implementation makes a vector with all item

@@ -1,4 +1,4 @@
-/*****************************
+/**
  * @brief This package implements the GSP Algorithm.
  * 
  *        This package implements GSP classic algorithm. There are no alteration
