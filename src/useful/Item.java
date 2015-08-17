@@ -1,7 +1,7 @@
 /**
- * @brief Colection of classes which is used in all implementation.
+ * @brief Collection of classes which is used in all implementation.
  *
- * This package implementes classes which are used all the time in
+ * This package implements classes which are used all the time in
  * the algorithm implementation.  
  */
 package useful;
@@ -9,10 +9,10 @@ package useful;
 import java.util.Vector;
 
 /**
- * @brief This classe representes one item.
+ * @brief This class represents one item.
  * 
- *        This classe represente the item and it's used by all model of this
- *        implementation. This classe is composed by the name of the item and a
+ *        This class represents the item and it's used by all model of this
+ *        implementation. This class is composed by the name of the item and a
  *        vector with all occurrence numbers.
  * 
  * @author Carlos Roberto Silveira Junior
@@ -34,8 +34,8 @@ public class Item {
 	 * Constructor without parameter. This had better do not use.
 	 */
 	public Item() {
-		this.name = new String();
-		this.traps = new Vector<Integer>();
+		name = new String();
+		traps = new Vector<Integer>();
 	}
 
 	/**
@@ -47,7 +47,7 @@ public class Item {
 	 */
 	public Item(String name) {
 		this.name = name;
-		this.traps = new Vector<Integer>();
+		traps = new Vector<Integer>();
 	}
 
 	/**
@@ -57,8 +57,8 @@ public class Item {
 	 *            The item to be copied
 	 */
 	public Item(Item old) {
-		this.name = old.getName().toString();
-		this.traps = (Vector<Integer>) (old.getTraps().clone());
+		name = old.getName();
+		traps = (Vector<Integer>) (old.getTraps().clone());
 	}
 
 	/**
@@ -86,8 +86,8 @@ public class Item {
 	 */
 	public Item(String name, int trap) {
 		this.name = name;
-		this.traps = new Vector<Integer>();
-		this.traps.add(new Integer(trap));
+		traps = new Vector<Integer>();
+		traps.add(new Integer(trap));
 	}
 
 	/**
@@ -96,7 +96,7 @@ public class Item {
 	 * @return Name of the item
 	 */
 	public String getName() {
-		return this.name;
+		return name;
 	}
 
 	/**
@@ -115,14 +115,14 @@ public class Item {
 	 * @return A vector with all occorences
 	 */
 	public Vector<Integer> getTraps() {
-		return this.traps;
+		return traps;
 	}
 
 	/**
-	 * Define or replace the occorences´ vector.
+	 * Define or replace the occurrence vector.
 	 * 
 	 * @param traps
-	 *            The new vector of occorences
+	 *            The new vector of occurrences
 	 */
 	public void setTraps(Vector<Integer> traps) {
 		this.traps = (Vector<Integer>) traps.clone();
@@ -134,27 +134,27 @@ public class Item {
 	 * @param trap Number of trap
 	 */
 	public void addTrap(Integer trap) {
-		if (!this.traps.contains(trap))
-			this.traps.add(trap);
+		if (!traps.contains(trap))
+			traps.add(trap);
 	}
 	
 	/**
-	 * Give the number of occorences this item has.
+	 * Give the number of occurrences this item has.
 	 * 
 	 * @return Number of traps
 	 */
-	public int trapsNumber() {
-		return this.traps.size();
+	public int getNumberOfTraps() {
+		return traps.size();
 	}
 
 	/**
-	 * Represente the item like a string.
+	 * Represent the item like a string.
 	 * 
 	 * @return Item as string
 	 */
 	@Override
 	public String toString() {
-		return this.name + " ";
+		return name + " ";
 	}
 
 	/**
@@ -177,113 +177,6 @@ public class Item {
 		} else if (!name.equals(other.name))
 			return false;
 		return true;
-	}
-
-	/**
-	 * Just for test
-	 * 
-	 * @param args
-	 *            Unutilized
-	 */
-	public static void main(String[] args) {
-
-		Vector<Integer> v = new Vector<Integer>();
-		v.add(new Integer(1));
-		v.add(new Integer(2));
-		v.add(new Integer(3));
-
-		Item i1 = new Item();
-		Item i2 = new Item("Item2");
-		Item i3 = new Item("Item3",v);
-		
-		Item i1c = new Item(i1);
-		Item i2c = new Item(i2);
-		Item i3c = new Item(i3);
-		
-		/* Outputs :
-		 * Testing i1
-			i1.name = 
-			i1.name = Item1
-			i1.traps = []
-			i1.traps = [1, 2, 3]
-			Testing i2
-			i2.name = Item2
-			i2.name = Item2b
-			i2.traps = []
-			i2.traps = [1, 2, 3]
-			Testing i3
-			i3.name = Item3
-			i3.name = Item3b
-			i3.traps = [1, 2, 3]
-			i3.traps = [1, 2, 3, 8]
-			Testing i1c
-			i1c.name = 
-			i1c.name = Item1c
-			i1c.traps = []
-			i1c.traps = [1, 2, 3, 8]
-			Testing i2c
-			i2c.name = Item2
-			i2c.name = Item2cb
-			i2c.traps = []
-			i2c.traps = [1, 2, 3, 8]
-			Testing i3c
-			i3c.name = Item3
-			i3c.name = Item3cb
-			i3c.traps = [1, 2, 3]
-			i3c.traps = [1, 2, 3, 8]
-			Item1 
-		 */
-		System.out.println("Testing i1");
-		System.out.println("i1.name = " + i1.getName());
-		i1.setName("Item1");
-		System.out.println("i1.name = " + i1.getName());
-		System.out.println("i1.traps = " + i1.getTraps().toString());
-		i1.setTraps(v);
-		System.out.println("i1.traps = " + i1.getTraps().toString());
-		
-		System.out.println("Testing i2");
-		System.out.println("i2.name = " + i2.getName());
-		i2.setName("Item2b");
-		System.out.println("i2.name = " + i2.getName());
-		System.out.println("i2.traps = " + i2.getTraps().toString());
-		i2.setTraps(v);
-		System.out.println("i2.traps = " + i2.getTraps().toString());
-		
-		System.out.println("Testing i3");
-		System.out.println("i3.name = " + i3.getName());
-		i3.setName("Item3b");
-		System.out.println("i3.name = " + i3.getName());
-		System.out.println("i3.traps = " + i3.getTraps().toString());
-		v.add(new Integer(8));
-		i3.setTraps(v);
-		v.add(new Integer(9));
-		System.out.println("i3.traps = " + i3.getTraps().toString());
-
-		System.out.println("Testing i1c");
-		System.out.println("i1c.name = " + i1c.getName());
-		i1c.setName("Item1c");
-		System.out.println("i1c.name = " + i1c.getName());
-		System.out.println("i1c.traps = " + i1c.getTraps().toString());
-		i1c.setTraps(v);
-		System.out.println("i1c.traps = " + i1c.getTraps().toString());
-		
-		System.out.println("Testing i2c");
-		System.out.println("i2c.name = " + i2c.getName());
-		i2c.setName("Item2cb");
-		System.out.println("i2c.name = " + i2c.getName());
-		System.out.println("i2c.traps = " + i2c.getTraps().toString());
-		i2c.setTraps(v);
-		System.out.println("i2c.traps = " + i2c.getTraps().toString());
-		
-		System.out.println("Testing i3c");
-		System.out.println("i3c.name = " + i3c.getName());
-		i3c.setName("Item3cb");
-		System.out.println("i3c.name = " + i3c.getName());
-		System.out.println("i3c.traps = " + i3c.getTraps().toString());
-		i3c.setTraps(v);
-		System.out.println("i3c.traps = " + i3c.getTraps().toString());
-		
-		System.out.println(i1);
 	}
 
 }

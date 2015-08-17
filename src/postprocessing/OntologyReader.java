@@ -1,16 +1,12 @@
 package postprocessing;
 
+import com.hp.hpl.jena.ontology.*;
+import com.hp.hpl.jena.rdf.model.ModelFactory;
+import com.hp.hpl.jena.rdf.model.RDFNode;
+
 import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.Vector;
-
-import com.hp.hpl.jena.ontology.Individual;
-import com.hp.hpl.jena.ontology.OntClass;
-import com.hp.hpl.jena.ontology.OntDocumentManager;
-import com.hp.hpl.jena.ontology.OntModel;
-import com.hp.hpl.jena.ontology.OntModelSpec;
-import com.hp.hpl.jena.rdf.model.ModelFactory;
-import com.hp.hpl.jena.rdf.model.RDFNode;
 
 /**
  * @brief Class are used to read and manipulate ontology.
