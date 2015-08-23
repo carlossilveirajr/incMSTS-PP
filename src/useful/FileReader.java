@@ -35,10 +35,14 @@ public class FileReader {
 		try {
 			this.database = new Scanner(new File(fileName));
 		} catch (FileNotFoundException fnfe) {
-			System.out.println("Error opening file " + fileName + ".");
-			System.exit(0);
+			fileNotFoundHandler(fileName);
 		}
 
+	}
+
+	protected void fileNotFoundHandler(String fileName) {
+		System.out.println("Error opening file " + fileName + ".");
+		System.exit(0);
 	}
 
 	/**
