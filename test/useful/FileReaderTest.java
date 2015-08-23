@@ -47,7 +47,7 @@ public class FileReaderTest {
 
     @Test public void
     openFile_extractItsLines() throws Exception {
-        testScenarioHandler.createNotEmptyFile("Little text here\nwith two lines");
+        testScenarioHandler.createFileWith("Little text here\nwith two lines");
 
         fileReader = new TestableFileReader(FILE_FOR_TEST);
         assertThat(fileReader.getLine(), is("Little text here"));
@@ -84,7 +84,7 @@ class TestFileHandler {
         } catch (Exception e) {};
     }
 
-    public void createNotEmptyFile(String text) {
+    public void createFileWith(String text) {
         createEmptyFile();
 
         try {
