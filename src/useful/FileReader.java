@@ -33,12 +33,16 @@ public class FileReader {
 	public FileReader(String fileName) {
 
 		try {
-			this.database = new Scanner(new File(fileName));
+			database = new Scanner(new File(fileName));
 		} catch (FileNotFoundException fnfe) {
-			System.out.println("Error opening file " + fileName + ".");
-			System.exit(0);
+			fileNotFoundHandler(fileName);
 		}
 
+	}
+
+	protected void fileNotFoundHandler(String fileName) {
+		System.out.println("Error opening file " + fileName + ".");
+		System.exit(0);
 	}
 
 	/**
@@ -48,35 +52,17 @@ public class FileReader {
 	 * @return A tuple of the database
 	 */
 	public String getLine() {
-		if (this.database.hasNext())
-			return this.database.nextLine();
+		if (database.hasNext())
+			return database.nextLine();
 		else
-			return new String();
+			return "";
 	}
 
 	/**
 	 * This method close the file opened by the constructor.
 	 */
 	public void closeFile() {
-		if (this.database != null)
-			this.database.close();
+		if (database != null)
+			database.close();
 	}
-
-	/**
-	 * Just for test
-	 * 
-	 * @param args
-	 *            Unutilized
-	 */
-	public static void main(String[] args) {
-
-		FileReader fr = new FileReader("teste");
-		String s;
-
-		while (!(s = fr.getLine()).isEmpty())
-			System.out.println(s);
-
-		fr.closeFile();
-	}
-
 }
